@@ -1,0 +1,13 @@
+isolate_id,antibiotic,zone_mm
+Isolate_1,Ampicillin,8
+Isolate_1,Ciprofloxacin,24
+Isolate_1,Gentamicin,16
+Isolate_1,Tetracycline,20
+Isolate_2,Ampicillin,19
+Isolate_2,Ciprofloxacin,14
+Isolate_2,Gentamicin,13
+Isolate_2,Tetracycline,12
+Isolate_3,Ampicillin,15
+Isolate_3,Ciprofloxacin,18
+Isolate_3,Gentamicin,15
+Isolate_3,Tetracycline,17
